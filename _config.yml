@@ -17,10 +17,9 @@ navbar-links:
   Connect:
     - About Us: "/aboutus"
     - Contact Us: "/contactus"
-  Resources:
-    - Android: ""
-    - Desktop: ""
-    - Web: ""
+  Android: "https://android.jawlatech.ml"
+  Desktop: "https://desktop.jawlatech.ml"
+  Web: "https://web.jawlatech.ml"
 
 # --- Logo --- #
 
