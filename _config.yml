@@ -18,9 +18,9 @@ navbar-links:
     - About Us: "/aboutus"
     - Contact Us: "/contactus"
   Resources:
-    - Top Android Utilities: ""
-    - Best PC Utilities: ""
-    - How To's: ""
+    - Android: ""
+    - Desktop: ""
+    - Web: ""
 
 # --- Logo --- #
 
