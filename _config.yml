@@ -9,7 +9,7 @@
 title: Jawla Tech Solutions
 
 # Your name to show in the footer
-author: Jawla
+author: Jawla Tech Solutions
 
 # --- List of links in the navigation bar --- #
 
@@ -25,7 +25,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/jt_logo_192.png"
+avatar: "https://lh3.googleusercontent.com/TuAusaB-mGTo6H4eE-rMBUcGSMpVEEAkKM-o7mLmxgZECF6z4DJgJqCGW5gnyoCwAFSm8JcUDBD4sry8rURCB9-B5f2JvqT9DiM0ZeM1pqdx_wPfhWSQhVqZGqwQqutiZ85UVvNDUEIKmG2sPvY8WbxmLtylUn9QCkFexfFKoSDbvDw3Sex13NmkpxyxTr0nFldiUntPx8cFQkrZxPSVWJROk0m7-FOe6GnvQN49_vM6tg5uvq5wmYKmqlx0FSPvzSoMRUlz6SckqHUTB9Eamm9Yx19TPmmrQUdSFyBibBGTOxJYxF_jrsS_B0BioVYC-OPEyN6ILgTqkcGFeuq8BGikUq5OSPR-JCIbH1cvDlIWZuUalrZqJjrbSpm9771h5eICmyx0VFxbD4e_40huDttD9sPPX5CxnojfC2mOvWSZPRH8JD4Y-iG7SiCB8PN4Me_aE89gyAjEydp7TyEYXa-r4L0MhRt083ZeyhzM2UMh9GTv_twvuiHBr0XUKvR23EFsprJVgY2nd1w406PU8iqTGIUi_Dxte1PEcz2U1LrQlZS6wH-I8fytuU6DpcLfCd1-Dnn6E0MkclZMPMZals7mOWsei0kIyNxq4qR2z4GQtsz8HHN2jPzrnyq_hFBazyIBXRZf-QIaAxoA1b-Ayw5rZD_O-esAsR6-2QOcW-o39RR-_GVz48sucA=w795-h390-no"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
