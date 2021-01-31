@@ -2,6 +2,7 @@
 layout: post
 title: Sample blog post
 subtitle: Each post also has a subtitle
+cover-image: https://lh3.googleusercontent.com/pqtufXxa1tvLNb49Qc8KQ0a0TqzTrH5xnzPtbPAPQyG0Xwf_yUx5tw7B4Dhiq03_buqBHYTLA1Dycm8LSQZKdaMr6zgsROSH0EQHAjJsAdWDeZXFdi3HW4kjjBWEPvD_M0wQIWykIA=w2400
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
