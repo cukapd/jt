@@ -51,7 +51,7 @@ social-network-links:
 #  reddit: yourname
 #  linkedin: none
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+#  stackoverflow: "39770/none"
 #  snapchat: none
   instagram: jawla_tech
 #  spotify: yourname
@@ -117,7 +117,7 @@ footer-link-col: "#404040"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#000000"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
