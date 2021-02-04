@@ -107,6 +107,7 @@
 
   {% if img != "" %}
   <meta property="og:image" content="{{ img | absolute_url }}">
+  <meta property="thumbnail" content="{{ img | absolute_url }}">
   {% endif %}
 
   {% if page.id %}
