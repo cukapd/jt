@@ -13,22 +13,20 @@ We provide information to latest How to's and apps. It is tech worthy for being 
 
 ---
 
-`` Android: `` [click here](https://android.jawlatech.ml)
+`` Android: ``
 
-```
-• How to Run Python progams on Android - Python3 IDE for Android - Pydroid3
+• [How to Run Python progams on Android - Python3 IDE for Android - Pydroid3](https://android.jawlatech.ml/run-python-programs-on-android-ide-pydroid/)
 
-• How to Remove Unwanted objects from image automatically fully AI - Photo Retouch
+• [How to Remove Unwanted objects from image automatically fully AI - Photo Retouch](https://android.jawlatech.ml/remove-unwanted-objects-from-image-automatically-fully-ai-retouch/)
 
-• How to download all New Released movies for free - TorrDroid
+• [How to download all New Released movies for free - TorrDroid](https://android.jawlatech.ml/download-movies-for-free-in-android-torrdroid/)
 
-• Listen 2 songs in two earphone jacks by 1 earphone - SplitCloud
-```
+• [Listen 2 songs in two earphone jacks by 1 earphone - SplitCloud](https://android.jawlatech.ml/listen-2-songs-in-two-earphone-jacks-in-1-earphone-splitcloud/)
 
 
 ---
 
-`` Web: `` [click here](https://web.jawlatech.ml)
+`` Web: ``
 
 
 • [How to call anyone by Anonymous number for privacy - SpyTox](https://web.jawlatech.ml/call-anyone-by-anonymous-number-for-privacy-spytox/)
