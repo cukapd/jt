@@ -19,7 +19,7 @@ You are specifically restricted from all of the following:
 *   using this Website in any way that impacts user access to this Website;
 *   using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity;
 
-Certain areas of this Website are restricted from being access by you and Jawnity may further restrict access by you to any areas of this Website, at any time, in absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality as well.
+Certain areas of this Website are restricted from being access by you and we may further restrict access by you to any areas of this Website, at any time, in absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality as well.
 
 ## Your Content
 
