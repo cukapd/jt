@@ -8,24 +8,26 @@ We provide information to latest How to's and apps. It is tech worthy for being 
 
 ---------------------------
 
-[https://play.google.com/store/apps/details?id=intelligems.torrdroid/](https://play.google.com/store/apps/details?id=intelligems.torrdroid){:target="_blank"}
 
-### Misc posts
+### Misc posts-
 
-----------
-`` [Android](https://android.jawlatech.ml) ``
+---
+
+`` [Android]: `` [click here](https://android.jawlatech.ml)
 
 ```
-• [How to Run Python progams on Android - Python3 IDE for Android - Pydroid3](https://android.jawlatech.ml/run-python-programs-on-android-ide-pydroid/)
+• How to Run Python progams on Android - Python3 IDE for Android - Pydroid3
 
-• [How to Remove Unwanted objects from image automatically fully AI - Photo Retouch](https://android.jawlatech.ml/remove-unwanted-objects-from-image-automatically-fully-ai-retouch/)
+• How to Remove Unwanted objects from image automatically fully AI - Photo Retouch
 
-• [How to download all New Released movies for free - TorrDroid](https://android.jawlatech.ml/download-movies-for-free-in-android-torrdroid/)
+• How to download all New Released movies for free - TorrDroid
 
-• [Listen 2 songs in two earphone jacks by 1 earphone - SplitCloud](https://android.jawlatech.ml/listen-2-songs-in-two-earphone-jacks-in-1-earphone-splitcloud/)
+• Listen 2 songs in two earphone jacks by 1 earphone - SplitCloud
 ```
 
-`` Web ``
+---
+
+`` Web: `` [click here](https://android.jawlatech.ml)
 
 ```
 • [How to call anyone by Anonymous number for privacy - SpyTox](https://web.jawlatech.ml/call-anyone-by-anonymous-number-for-privacy-spytox/)
