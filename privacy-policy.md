@@ -12,7 +12,7 @@ tags: legal
 
 **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access our site. For example, when you our site, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the website. We may also collect information about actions you take when using our site, such as links clicked.
 
-**Cookies:** We may log information using cookies, which are small data files stored on your browser by jawnity. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the website. For more information about our use of cookies, please see below.
+**Cookies:** We may log information using cookies, which are small data files stored on your browser by us. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the website. For more information about our use of cookies, please see below.
 
 
 ### HOW YOUR PERSONAL INFORMATION MAY BE USED
@@ -106,7 +106,7 @@ If you send us an email with questions or comments, we may use your personally i
 
 ### HOW DO I CONTACT YOUR COMPANY?
 
-If you have any further questions or comments regarding the Jawnity website or this Privacy and Spam Policy, you may contact jawlatech@gmail.com
+If you have any further questions or comments regarding our website or this Privacy and Spam Policy, you may contact jawlatech@gmail.com
 
 
 ### OTHER TERMS AND CONDITIONS
