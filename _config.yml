@@ -6,33 +6,31 @@
 # --- Required options --- #
 
 # Name of website
-title: Jawla Tech Solutions
+title: Jembo Tech Solutions
 
 # Your name to show in the footer
-author: Jawla Tech Solutions
+author: Jembo Tech Solutions
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Connect:
-    - About Us: "/aboutus"
-    - Contact Us: "/contactus"
-  Android: "https://android.jawlatech.ml"
-  Desktop: "https://desktop.jawlatech.ml"
-  Web: "https://web.jawlatech.ml"
+  Home: "https://jembotech.ml"
+  Android: "https://android.jembotech.ml"
+  Desktop: "https://desktop.jembotech.ml"
+  Web ✴️: "https://web.jembotech.ml" 
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 avatar: "https://lh3.googleusercontent.com/LKbfM19G9BbGhJmON6t4gwxX3vKjwppR2GtTWeu9NkfjPLmN85rKnphiUztDzb116BdMikMeRiRV64uO-SvSYFmGhlXiospD6JDbX3y0wzZYiDvG5Ivcjp9pEpqoFsjfYuAP4shQtw=w2400"
+
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: https://avatars.githubusercontent.com/u/77948869?s=200&v=4
-
+# title-img: 
 
 
 
@@ -41,24 +39,24 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jawlatech@gmail.com"
-  facebook: jawlatech
+  email: "jembotech@gmail.com"
+  facebook: jembotech
 #  github: none
-  twitter: jawla_tech
+  twitter: jembo_tech
 #  patreon: none
 #  youtube: c/none
 #  reddit: yourname
 #  linkedin: none
 #  xing: yourname
-#  stackoverflow: "39770/none"
+#  stackoverflow: "3943160/daattali"
 #  snapchat: none
-  instagram: jawla_tech
+  instagram: jembo_tech
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: none
 #  twitch: yourname
 #  yelp: yourname
-  telegram: jawlatech
+  telegram: jembotech
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
@@ -73,6 +71,7 @@ rss-description: Rock on with the technology
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
+  telegram: false
   facebook: true
   linkedin: false
   vk: false
@@ -91,7 +90,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "jawla,tech,solutions,technology,techy,geek,blog,harshit,apps,utility"
+keywords: "jembo,tech,solutions,technology,techy,geek,blog,apps,utility,jawla"
 
 # --- Colours / background image --- #
 
