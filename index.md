@@ -3,7 +3,7 @@ layout: home
 title: Jembo Tech Solutions
 subtitle: welcome back fellow utilman
 ---
-We here guide you to get the latest utility apps for various platforms like [android](https://android.jawlatech.ml/) and [web apps](https://web.jawlatech.ml/).
+We here guide you to get the latest utility apps for various platforms like [android](https://android.jembotech.ml/) and [web apps](https://web.jembotech.ml/).
 We provide information to latest How to's and apps. It is tech worthy for being here.
 
 ------------------------------------------------
