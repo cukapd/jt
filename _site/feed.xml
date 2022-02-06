@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Jembo Tech Solutions</title>
+    
+    
+    <description>Rock on with the technology</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Sample blog post7</title>
+        <description>
+          Each post also has a subtitle - 
+          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
+        </description>
+        <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/notrk/</link>
+        <guid isPermaLink="true">http://localhost:4000/notrk/</guid>
+      </item>
+    
+      <item>
+        <title>Sample blog poost889899</title>
+        <description>
+          Each post also has a subtitle - 
+          This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
+Here is some bold text
+
+        </description>
+        <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/spk/how2/</link>
+        <guid isPermaLink="true">http://localhost:4000/spk/how2/</guid>
+      </item>
+    
+      <item>
+        <title>How to get media file links directly in browser - indexof</title>
+        <description>
+          
+          AJT8 • Pros: • Search for file name and get its index directly • Save time scrolling for file links on pages • Steps: Use following syntax for searching in browser intitle:index.of?&amp;lt;file-extension&amp;gt; &amp;lt;your search&amp;gt; eg, If you are looking for troy movie in mkv format: intitle:index.of?mkv troy movie If you...
+        </description>
+        <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/web/how-to-get-media-file-links-directly/</link>
+        <guid isPermaLink="true">http://localhost:4000/web/how-to-get-media-file-links-directly/</guid>
+      </item>
+    
+      <item>
+        <title>How to run ubuntu 20.0.4 lts within windows in commandline</title>
+        <description>
+          
+          DJT1 • Pros: • Run ubuntu commandline, same as cmd within windows • Shift + RightClick = option for ubuntu cmd (+ like powershell) • Feature like termux for android • Steps: Copy the following link. Link: https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71 Go to AdGuard website. (This will generate a direct link as an...
+        </description>
+        <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/desktop/run-ubuntu-20-within-windows-with-cmd-like-terminal/</link>
+        <guid isPermaLink="true">http://localhost:4000/desktop/run-ubuntu-20-within-windows-with-cmd-like-terminal/</guid>
+      </item>
+    
+      <item>
+        <title>How to run MySQL + ftp + php server on android - ksweb</title>
+        <description>
+          
+          AJT20 • Pros: • Run lighttpd, nginx, apache, mysql, ftp, php servers right from your phone • Best use for integration with pydroid to run python+sql in android • Steps: Install KSWEB. Link: https://play.google.com/store/apps/details?id=ru.kslabs.ksweb At the top menu, under the ‘LIGHTTPD’ tab, check ‘enable server’ to be turned on. You...
+        </description>
+        <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/run-mysql-ftp-php-server-on-android-ksweb/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/run-mysql-ftp-php-server-on-android-ksweb/</guid>
+      </item>
+    
+      <item>
+        <title>How to create apps with java right from your Android - Java N-Ide</title>
+        <description>
+          
+          AJT19 • Pros: • You can also export your codework to work on Android Studio • Works fully offline • No need to sync with gradle • Start building apps with no difference in native apps • Cons: • Plugins as of Android Studio are not supported • No support...
+        </description>
+        <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/create-apps-with-java-right-from-your-android-java-n-ide/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/create-apps-with-java-right-from-your-android-java-n-ide/</guid>
+      </item>
+    
+      <item>
+        <title>How to reverse search an image directly - AI tool - tineye</title>
+        <description>
+          
+          WJT7 • Pros: • Search the image origin through AI based tool • Features quick search with direct upload • No ads. Get the source of image with ease • Steps: Go to Tineye website. Link: https://tineye.com/ Click on upload (or paste your image’s link). Now, Tineye will show the...
+        </description>
+        <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/web/reverse-image-search-ai-tool-tineye/</link>
+        <guid isPermaLink="true">http://localhost:4000/web/reverse-image-search-ai-tool-tineye/</guid>
+      </item>
+    
+      <item>
+        <title>How to Access your phone's camera from anywhere browser - IP Webcam</title>
+        <description>
+          
+          AJT18 • Pros: • Share your phone IP and remotely access its cameras and microphone • Use your old phone as a security camera and access it from anywhere • Steps: Download and Install IP Webcam. Link: https://play.google.com/store/apps/details?id=com.pas.webcam Open the app and click on ‘Start Server’. Click on ‘Actions…’ button....
+        </description>
+        <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/access-your-phone-camera-from-anywhere-by-ip-webcam/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/access-your-phone-camera-from-anywhere-by-ip-webcam/</guid>
+      </item>
+    
+      <item>
+        <title>How to make android apps in android with custom package name - scratch based app - Sketchware</title>
+        <description>
+          
+          AJT17
+
+• Pros:
+
+• You can also export source code to work on PC softwares like Android Studio,Eclipse ADT
+
+• You can also upload your app to Playstore with 100% copyright
+
+• Steps:
+
+
+  
+    Install Sketchware
+Link: https://play.google.com/store/apps/details?id=com.besome.sketch
+  
+  
+    Start creating your app, completely yours √
+  
+
+
+        </description>
+        <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/create-android-apps-in-android-ide-sketchware/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/create-android-apps-in-android-ide-sketchware/</guid>
+      </item>
+    
+      <item>
+        <title>How to Run Python progams on Android - Python3 IDE for Android - Pydroid3</title>
+        <description>
+          
+          AJT16
+
+• Pros:
+
+• Install modules using pip
+
+• It also supports various GUI modules like tkinter, turtle, pygame
+
+• You can also manually install other new packages using built-in PyPI
+
+• Steps:
+
+
+  
+    Install Pydroid3 App
+Link: https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
+  
+  
+    Start playing with python for Android ;)
+  
+
+
+        </description>
+        <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/run-python-programs-on-android-ide-pydroid/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/run-python-programs-on-android-ide-pydroid/</guid>
+      </item>
+    
+      <item>
+        <title>How to Search what others are searching on the web - Trends</title>
+        <description>
+          
+          WJT6 • Pros: • Have you ever took interest in knowing in which region a specific topic is searched most? • Get details about the hottness of topic in a country and its subregion • Steps: Go to Google Trends website. Link: https://trends.google.com/trends/?geo=US Replace ‘US’ in the link with the...
+        </description>
+        <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/web/search-what-others-are-searching-on-the-web-trends/</link>
+        <guid isPermaLink="true">http://localhost:4000/web/search-what-others-are-searching-on-the-web-trends/</guid>
+      </item>
+    
+      <item>
+        <title>How to Run Chrome browser desktop extensions on Android - Kiwi</title>
+        <description>
+          
+          AJT15 • Pros: • Run chrome.google.com webapp extentions right from android • Normal browser doesn’t support any chrome apps. While it supports almost all extention apps • Steps: Install Kiwi Browser Link: https://play.google.com/store/apps/details?id=com.kiwibrowser.browser Now you will be able to Add Google Chrome extensions made for PC Browser from here: https://chrome.google.com/webstore/extensions/...
+        </description>
+        <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/add-and-run-chrome-browser-desktop-extenstions-on-android-kiwi/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/add-and-run-chrome-browser-desktop-extenstions-on-android-kiwi/</guid>
+      </item>
+    
+      <item>
+        <title>How to Run OS like Kali linux, Ubuntu command line in android - UserLAnd</title>
+        <description>
+          
+          AJT14 • Pros: • Run Debian based OS right within android app • Install and use your favorite linux packages • GUI access also available via VNC • Steps: Install UserLAnd app from playstore Link: https://play.google.com/store/apps/details?id=tech.ula Open the app. Under the Distribution menu select an OS. Now select server as...
+        </description>
+        <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/run-os-like-kali-linux-ubuntu-command-line-in-android-userland/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/run-os-like-kali-linux-ubuntu-command-line-in-android-userland/</guid>
+      </item>
+    
+      <item>
+        <title>Send, Receive and manage Anonymous Emails - 5yMail</title>
+        <description>
+          
+          WJT5
+
+• Pros:
+
+• Increase your privacy. Hide your email address while sending mails
+
+• Reduce risk for spam emails
+
+• Steps:
+
+
+  
+    Goto 5yMail website
+
+    Link: https://www.5ymail.com/
+  
+  
+    Send mail anonymously by filling required details :)
+  
+
+
+        </description>
+        <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/web/mail-anyone-by-anonymous-email-for-privacy-5ymail/</link>
+        <guid isPermaLink="true">http://localhost:4000/web/mail-anyone-by-anonymous-email-for-privacy-5ymail/</guid>
+      </item>
+    
+      <item>
+        <title>Play 1200 unique games in just 1.5 mb app - Nes1200in1</title>
+        <description>
+          
+          AJT13
+
+• Pros:
+
+• Try this 1200 small games collection in just 1.5 mb
+
+• This collection is a mix of variety of arcade games
+
+• Steps:
+
+
+  
+    Download the Nes1200in1 game collection.
+Link: https://mega.nz/file/zh1wlKJI#HfalBxoXPEht7rD4KN6JpjEFY83uHXqFI_oPTAhJ928
+  
+  
+    Try end Enjoy 1200 games in just 1.5 mb data.
+  
+
+
+        </description>
+        <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/play-1200-unique-games-in-just-1-mb-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/play-1200-unique-games-in-just-1-mb-app/</guid>
+      </item>
+    
+      <item>
+        <title>How to call anyone by Anonymous number for privacy - SpyTox</title>
+        <description>
+          
+          WJT4 • Pros: • Increase your privacy. Hide your real number while calling • Reduce risk for spam messages • Steps: Download ToorDroid. Link: https://www.spytox.com/ Under the Mobile UI based block choose ‘Call’ from Lookup &amp;amp; Call tabs. Enter the country code. Now Enter the numeber to which you want...
+        </description>
+        <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/web/call-anyone-by-anonymous-number-for-privacy-spytox/</link>
+        <guid isPermaLink="true">http://localhost:4000/web/call-anyone-by-anonymous-number-for-privacy-spytox/</guid>
+      </item>
+    
+      <item>
+        <title>How to Remove Unwanted objects from image automatically fully AI - Photo Retouch</title>
+        <description>
+          
+          AJT12
+
+• Pros:
+
+• Remove all unwanted objects just by tapping them
+
+• Preserve the original background of the image behind the objects
+
+• Steps:
+
+
+  
+    Download and Install Touch Retouch app https://play.google.com/store/apps/details?id=com.accarunit.touchretouch
+  
+  
+    Try the app and unleash the ML power.
+  
+
+
+        </description>
+        <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/remove-unwanted-objects-from-image-automatically-fully-ai-retouch/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/remove-unwanted-objects-from-image-automatically-fully-ai-retouch/</guid>
+      </item>
+    
+      <item>
+        <title>Create your own funny gif/video by your face photo - Reface</title>
+        <description>
+          
+          AJT11
+
+• Pros:
+
+• Make gifs of dancing and funny
+
+• Steps:
+
+
+  
+    Download and Install Reface. 
+Link: https://play.google.com/store/apps/details?id=video.reface.app
+  
+  
+    Sign Up/In.
+  
+  
+    Capture your photo
+  
+  
+    Select a gif and See the magic ;)
+  
+
+
+        </description>
+        <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/create-your-funny-dancing-gifs-by-your-selfie-morphin/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/create-your-funny-dancing-gifs-by-your-selfie-morphin/</guid>
+      </item>
+    
+      <item>
+        <title>Listen 2 songs in two earphone jacks by 1 earphone - SplitCloud</title>
+        <description>
+          
+          AJT10 • Pros: • This utility app is for those partners who have/want to manage with a single earphone • You can listen two different songs in two different jacks • Steps: Download and Install SplitCloud app. Link: https://play.google.com/store/apps/details?id=com.splitcloud Open the app. Now you have two tracks. Add songs to...
+        </description>
+        <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/listen-2-songs-in-two-earphone-jacks-in-1-earphone-splitcloud/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/listen-2-songs-in-two-earphone-jacks-in-1-earphone-splitcloud/</guid>
+      </item>
+    
+      <item>
+        <title>How to download all New Released movies for free - TorrDroid</title>
+        <description>
+          
+          AJT9 • Pros: • Download newly released / old movies, audio, document using torrent directly for free • Steps: Download ToorDroid. Link: https://play.google.com/store/apps/details?id=intelligems.torrdroid/ Search for movies by entering keyword. Choose appropriate related movie video to download. Apart from movies you can also download others files types from dropdown menu category....
+        </description>
+        <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/android/download-movies-for-free-in-android-torrdroid/</link>
+        <guid isPermaLink="true">http://localhost:4000/android/download-movies-for-free-in-android-torrdroid/</guid>
+      </item>
+    
+  </channel>
+</rss>
