@@ -190,7 +190,7 @@ date_format: "%B %-d, %Y"
 timezone: "India/Kolkata"
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /:category/:title/
 paginate: 5
 
 kramdown:
