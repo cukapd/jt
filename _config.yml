@@ -8,18 +8,16 @@
 # Name of website
 title: Jembo Tech Solutions
 
-category: six
-
 # Your name to show in the footer
 author: Jembo Tech Solutions
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home ✴️: "https://jembotech.ml"
-  Android: "https://android.jembotech.ml"
-  Desktop: "https://desktop.jembotech.ml"
-  Web: "https://web.jembotech.ml" 
+  Home : "/"
+  Android: "/android/"
+  Web: "/web/"
+  Desktop: "desktop/"
 
 # --- Logo --- #
 
@@ -193,7 +191,8 @@ timezone: "India/Kolkata"
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
-paginate: 5
+paginate: 1
+paginate_path: "/page:num/"
 
 kramdown:
   input: GFM

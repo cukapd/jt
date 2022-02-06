@@ -1,5 +1,6 @@
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
 
+
   {%- if site.title-img -%}
     <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
@@ -28,10 +29,13 @@
           <li class="nav-item">
             <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
           </li>
+          <li class="nav-item"></li>
         {%- endif -%}
       {%- endfor -%}
+       <li> {% include bar.html %} </li>
     </ul>
   </div>
+
 
   {% if site.navbar-extra %}
     {% for file in site.navbar-extra %}
